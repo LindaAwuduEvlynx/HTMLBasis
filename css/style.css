@@ -1,0 +1,25 @@
+#Linda {
+    color:chartreuse;
+    font-size: 100px;
+    background-color: red;
+ }
+
+table {
+    background-color:purple
+}
+
+li {
+    margin: 50px;
+    background-color: royalblue;
+    padding: 20px;
+    border: 5px solid black;
+}   
+
+.form-cottrol {
+    background-color:chartreuse;
+    border:7px solid crimson;
+}
+
+body {
+    background-color: orange
+}
